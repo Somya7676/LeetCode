@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Somya7676/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Somya7676/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Somya7676/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
