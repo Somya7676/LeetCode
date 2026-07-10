@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Somya7676/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Somya7676/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somya7676/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Somya7676/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Somya7676/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
