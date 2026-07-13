@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Somya7676/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Somya7676/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
