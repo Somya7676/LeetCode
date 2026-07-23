@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Somya7676/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Somya7676/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Somya7676/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Somya7676/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Somya7676/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Somya7676/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Somya7676/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Somya7676/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Somya7676/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Somya7676/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Somya7676/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Somya7676/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Somya7676/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Enumeration
 |  |
